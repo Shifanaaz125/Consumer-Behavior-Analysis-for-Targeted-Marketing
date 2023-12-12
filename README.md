@@ -1,5 +1,7 @@
 # Consumer-Behavior-Analysis-for-Targeted-Marketing
 
+![image](https://github.com/Shifanaaz125/Consumer-Behavior-Analysis-for-Targeted-Marketing/assets/120267469/bb1431b1-04c0-440b-9e9f-35611267e42d)
+
 # Problem Statement
 
 1. Investigate the impact of various factors, such as seasonality, item attributes (size and color), and promotional activities (discounts and promo codes), on customer purchase decisions. Are there particular seasons when certain product categories perform better? Do specific item attributes or promotions significantly influence purchase amounts and review ratings?
