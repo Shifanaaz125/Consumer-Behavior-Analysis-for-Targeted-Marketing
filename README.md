@@ -7,7 +7,7 @@
 
 **Data Source:** Public Data Source (Data Hub) datahub.io
 
-**Tool:** Jupyter Notebook  <p <code><img height = "30" src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' alt = 'Jupyter Notebook'>
+**Tool:** Jupyter Notebook   <code><img height = "30" src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' alt = 'Jupyter Notebook'>
 </p> 
 
 # Problem Statement
@@ -15,6 +15,15 @@
 1. Investigate the impact of various factors, such as seasonality, item attributes (size and color), and promotional activities (discounts and promo codes), on customer purchase decisions. Are there particular seasons when certain product categories perform better? Do specific item attributes or promotions significantly influence purchase amounts and review ratings?
 
 2. Using the Consumer Behavior and Shopping Habits Dataset, analyze the relationship between customer demographics (age and gender) and their purchase behavior. Are there any specific product categories or shopping channels that are preferred by certain age groups or genders? How can this information be leveraged to design more targeted marketing strategies?
+
+# Descrption 
+
+1. This is a Consumer behavior analysis Python Project.
+2. The dataset contains 3900 rows and 18 columns.
+3.  In this case study if companies want to make their marketing strategies for their targeted customers this type of analysis will help them to understand the customer's behavior.
+
+
+# Methodolyg
 
 
 
