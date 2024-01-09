@@ -4,7 +4,9 @@
 
 
 **Title:** Consumer Behavior Analysis for Targeted Marketing
+
 **Data Source:** Public Data Source (Data Hub) datahub.io
+
 **Tool:** Jupyter Notebook  <p <code><img height = "30" src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' alt = 'Jupyter Notebook'>
 </p> 
 
