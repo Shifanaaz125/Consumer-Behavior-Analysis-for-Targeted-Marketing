@@ -23,7 +23,7 @@
 3.  In this case study if companies want to make their marketing strategies for their targeted customers this type of analysis will help them to understand the customer's behavior.
 
 
-# Methodolyg
+# Methodology
 
 
 
